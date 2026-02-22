@@ -1,6 +1,7 @@
 # VisualAlign for PDF
 
 基于**图像特征点配准算法（OpenCV）**的 PDF 差异比对工具。通过将两份 PDF 对应页面渲染为高分辨率图像并做像素级对齐与对比，精确定位页面中的变动区域。
+VisualAlign for PDF is a specialized utility designed for legal professionals, auditors, and researchers who need to identify subtle changes between two versions of a document. Unlike traditional text-based diff tools that parse characters, VisualAlign treats each page as a high-resolution image, ensuring that even layout shifts, font changes, and non-textual modifications are captured with pixel-perfect accuracy.
 
 ---
 
